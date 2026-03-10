@@ -90,7 +90,7 @@ Após a instalação, a rede foi montada fisicamente no laboratório.
 
 ![Roteador](Imagens/roteador.jpg)
 
-![Lista de clientes](Imagens/lista-de-clientes.jpg)
+
 
 ![Impressora](Imagens/impressora.jpg)
 

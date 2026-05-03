@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/wilmeryf/lab-redes-01?style=for-the-badge) -
+![GitHub License](https://img.shields.io/github/license/wilmeryf/rede-local?style=for-the-badge) -
 ![Redes](https://img.shields.io/badge/Rede-Doméstica-blue?style=for-the-badge&logo=windows)
 
 # Laboratório de Redes 01 - Projeto de Rede Local

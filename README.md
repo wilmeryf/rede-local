@@ -1,7 +1,7 @@
 ![GitHub License](https://img.shields.io/github/license/wilmeryf/rede-local?style=for-the-badge) -
 ![Redes](https://img.shields.io/badge/Rede-Doméstica-blue?style=for-the-badge&logo=windows)
 
-# Laboratório de Redes 01 - Projeto de Rede Local
+# Laboratório de Redes - Projeto de Rede Local
 
 **Unidade Curricular 5 - SENAC**
 
